@@ -1,7 +1,5 @@
 # AP N°2: ORM, Jpa, Hibernate Spring Data
 
-Ce projet Java vise à illustrer l'implémentation d'une architecture basique utilisant des interfaces, des implémentations, et l'injection de dépendances. Les principales fonctionnalités du projet comprennent la création d'interfaces `IDao` et `IMetier`, leurs implémentations respectives, et l'injection de dépendances de différentes manières.<br>
-
 1. **Création des entités JPA `Patient`, `Medecin`, `RendezVous` et `Consultation` :** <br>
   ![image](https://github.com/otari2002/JEE_AP2/assets/53525728/cb372dd6-dfcd-4613-a1fb-75466982c949)<br>
   ![image](https://github.com/otari2002/JEE_AP2/assets/53525728/6ad12a94-925e-4cb0-9e16-42643bbfe49f)<br>
